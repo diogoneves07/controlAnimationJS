@@ -1,0 +1,30 @@
+{
+  "name": "controlanimationjs",
+  "version": "1.0.0",
+  "description": "The simple can be simply incredible! An “original copy”, from @keyframe CSS, but with new features, light (14.3KB), elegant, powerful and with high performance.",
+  "umd:main": "lib/controlAnimation.min.js",
+  "main": "lib/controlAnimation.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoneves07/controlAnimationJS.git"
+  },
+  "keywords": [
+    "controlAnimation",
+    "javascript",
+    "keyframes",
+    "control",
+    "animation"
+  ],
+  "author": "Diogo Neves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoneves07/controlAnimationJS/issues"
+  },
+  "homepage": "https://github.com/diogoneves07/controlAnimationJS#readme"
+}
