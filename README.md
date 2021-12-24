@@ -1,3 +1,6 @@
+<strong>DEPRECATED.</strong>
+
+
 # controlAnimationJS
 
 <blockquote>
